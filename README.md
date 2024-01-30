@@ -45,4 +45,4 @@ I'm Stanislav, a seasoned programmer with extensive expertise spanning multiple 
 
 
 ## 📊 Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzukianzu&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shulgastanslv&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
