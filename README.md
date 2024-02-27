@@ -1,4 +1,4 @@
-[![Header](https://github.com/yuzukianzu/yuzukianzu/blob/main/Coverbanner.jpg?raw=true "Header")](https://github.com/yuzukianzu)
+[![Header](https://github.com/yuzukianzu/yuzukianzu/blob/main/banner.jpg?raw=true "Header")](https://github.com/yuzukianzu)
 
 ## 👋 Hello! 
 I'm Stanislav, a seasoned programmer with extensive expertise spanning multiple years. My proficiency lies in navigating intricate, multi-threaded environments, coupled with a profound understanding of software and web architecture, as well as adept knowledge of design patterns. I specialize in crafting scalable, maintainable, and highly extensible applications. Throughout my career, I've demonstrated a consistent record of successful implementations in challenging projects, showcasing not only my prowess in multi-threaded programming but also a unwavering commitment to delivering top-notch, innovative solutions.
