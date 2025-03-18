@@ -4,11 +4,14 @@
         <br><br>
         <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
         <br><br><br>
+        <div style="display: flex; justify-content: center; align-items: center;">
         <pre>
             💻 Stack: Rust, TypeScript, React, Next.js, TailwindCSS, PostgreSQL, Docker ..
             📖 Software architecture • Distributed systems • Design Patterns * Architecture Patterns
             🎮 Music • Games • Anime • Code • Reading
         </pre>
+        <img src="https://i.pinimg.com/736x/0e/4e/c3/0e4ec30db6dd2163578011dc050d1383.jpg" height="400" width="400"/>
+        </div>
         <br><br>
     </div>
     
